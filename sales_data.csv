@@ -1,0 +1,7 @@
+shop_id,date,sales,promotion,holiday,weather
+Shop1,2024-01-01,120,Yes,No,Sunny
+Shop1,2024-01-02,90,No,No,Rainy
+Shop1,2024-01-03,100,No,Yes,Sunny
+Shop2,2024-01-01,60,Yes,No,Cloudy
+Shop2,2024-01-02,75,No,No,Rainy
+Shop3,2024-01-03,55,No,Yes,Sunny
